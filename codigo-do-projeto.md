@@ -1,4 +1,4 @@
-este código foi testado efeito através do compilador Programiz
+Este código foi desenvolvido e testado através do compilador Programiz
 
 #include <stdio.h>
 #include <time.h>
